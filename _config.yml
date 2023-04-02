@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: putridarmawan
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -51,10 +51,13 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
   - name: Machine learning
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
+    image_url: https://cdn-icons-png.flaticon.com/512/3222/3222625.png
 
   - name: SQL
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
+
+  - name: Tableau
+    image_url: https://www.lib.washington.edu/dataservices/images/copy_of_Tableau_Software_logo.png/image_preview
 
   - name: React
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
@@ -62,5 +65,19 @@ topics:
   - name: Vue
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png
 
+  - name: JavaScript
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433
+
+  - name: R
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png
+
+  - name: MongoDB
+    image_url: https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg
+
+  - name: Solidity
+    image_url: https://docs.soliditylang.org/en/v0.8.17/_images/logo.svg
+
+  - name: Airflow
+    image_url: https://seeklogo.com/images/A/airflow-logo-A19E5B6709-seeklogo.com.png
 
 
